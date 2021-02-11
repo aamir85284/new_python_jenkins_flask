@@ -5,7 +5,7 @@ Created on Wed Jan 27 10:51:19 2021
 @author: MohammadAamirKhan
 app.put("",())
 app.post("",())
-newwwwww
+neww
 """
 
 import json
